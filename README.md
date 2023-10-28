@@ -1,7 +1,7 @@
 # Final-Project-Tableau
 
 ## Project/Goals
-(fill in your description and goals here)
+To investigate the potential factors impacting Airbnb prices within the state of New York by analyzing Airbnb host data ranging from 2008-2015
 
 ## Process
 ### (your step 1)
