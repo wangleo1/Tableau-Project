@@ -11,7 +11,7 @@ To investigate the potential factors impacting Airbnb prices within the state of
 5. Generate hypothesis, potential question and points of interest
 6. Create visualizations including maps, tables and graphs to present findings to potential audiences
 7. Construct dashboards consisting sheets created in previous step
-8. Present Findings
+8. Present findings
 
 ## Results
 (Fill in which Option you chose, either 1 or 2. List the dataset you selected for the project if you selected Option 2. Also, discuss the visualizations you created, and why. For Option 2, also identify what your data question was, and how you went through the prompts.)
