@@ -18,6 +18,9 @@ To investigate the potential factors impacting Airbnb prices within the state of
 
 ## Challenges 
 - Tableau's lack of geographical information on NYC's boroughs requiring the addition of further spatial files
+- Organising visualizations in a manner which depicts a story
 
 ## Future Goals
-(what would you do if you had more time?)
+- Investigate relationship with time series data instead of cross sectional
+- Look at other potential variables such as seasonality 
+- Create regression models to test strength explanatory variables
